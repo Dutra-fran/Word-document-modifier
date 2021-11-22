@@ -23,9 +23,12 @@ Aplicação, utilizando a linguagem C#, que modifica documentos do Word utilizan
 Caso você queira reproduzir, ou até mesmo, por curiosidade, saber que tipo de libs eu utilizei, abaixo estará o nome dos pacotes nugets que utilizei nesse projeto:
 
 <ul>
+  <li>Microsoft.NETCore.App - Versão 5.0.0 (Isso é obrigatório ter instalado na máquina)</li>
   <li>DocX - Versão 1.8.0</li>
   <li>System.IO.Packaging - Versão 4.7.0</li>
 </ul>
+
+Você pode instalar o Microsoft.NETCore.App version 5.0.0 clicando <a href="https://dotnet.microsoft.com/download/dotnet/5.0">aqui</a>.
 
 <h2>Funcionamento</h2>
 Através de palavras-chave, eu consigo colocar dados informados dentro do programa num local exato que eu quiser.
