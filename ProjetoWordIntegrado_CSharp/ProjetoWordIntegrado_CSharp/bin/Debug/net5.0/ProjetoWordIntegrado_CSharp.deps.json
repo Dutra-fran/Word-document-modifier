@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoWordIntegrado_CSharp/1.0.0": {
+        "dependencies": {
+          "DocX": "1.8.0",
+          "System.IO.Packaging": "4.7.0"
+        },
+        "runtime": {
+          "ProjetoWordIntegrado_CSharp.dll": {}
+        }
+      },
+      "DocX/1.8.0": {
+        "runtime": {
+          "lib/net40/Xceed.Document.NET.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          },
+          "lib/net40/Xceed.Words.NET.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
+          }
+        }
+      },
+      "System.IO.Packaging/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoWordIntegrado_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocX/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KYZ8BaS/yC7SuwKon9DQ1sc3sRkgJpcYf5UNiUcDnyzWwooBcbIzWVnwQrwjb6q+mrUr5vOQPUCSJo2wz8tjdw==",
+      "path": "docx/1.8.0",
+      "hashPath": "docx.1.8.0.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "path": "system.io.packaging/4.7.0",
+      "hashPath": "system.io.packaging.4.7.0.nupkg.sha512"
+    }
+  }
+}

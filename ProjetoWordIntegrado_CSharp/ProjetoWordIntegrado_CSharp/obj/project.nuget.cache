@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "pm/pz4lYqtMHHgUepOBNHrt5dUDTFRlNzmug0vA5qhG31sCHJxw3Jivek+1hEAUAljTam1yxqtx2rrLsOVwP7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\francisco.dutra\\Desktop\\Juvenal\\GitHub\\ProjetoWordIntegrado_CSharp\\ProjetoWordIntegrado_CSharp\\ProjetoWordIntegrado_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\francisco.dutra\\.nuget\\packages\\docx\\1.8.0\\docx.1.8.0.nupkg.sha512",
+    "C:\\Users\\francisco.dutra\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'DocX 1.8.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "DocX",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
